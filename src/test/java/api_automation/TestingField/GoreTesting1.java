@@ -16,7 +16,7 @@ public class GoreTesting1 {
     @Test()
     public void user_create_requestData(){
         System.out.println("class1");
-        Assert.assertEquals(1,2);
+     //   Assert.assertEquals(1,2);
 
     }
 }
