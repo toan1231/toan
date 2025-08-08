@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting.java"><classes><class name="api_automation.TestingField.GoreTesting1"><methods><include name="user_create_requestData"/></methods></class></classes></test><test verbose="2" preserve-order="true" name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting2.java"><classes><class name="api_automation.TestingField.GoreTesting2"><methods><include name="user_create_requestData"/></methods></class></classes></test><test verbose="2" preserve-order="true" name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting3.java"><classes><class name="api_automation.TestingField.GoreTesting3"><methods><include name="user_create_requestData"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting.java">
+        <classes>
+            <class name="api_automation.TestingField.GoreTesting1">
+                <methods>
+                    <include name="user_create_requestData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting2.java">
+        <classes>
+            <class name="api_automation.TestingField.GoreTesting2">
+                <methods>
+                    <include name="user_create_requestData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting3.java">
+        <classes>
+            <class name="api_automation.TestingField.GoreTesting3">
+                <methods>
+                    <include name="user_create_requestData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

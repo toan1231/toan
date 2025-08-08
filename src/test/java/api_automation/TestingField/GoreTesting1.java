@@ -8,6 +8,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import api_automation.utils.TestBase;
 
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class GoreTesting1 {
@@ -15,7 +16,7 @@ public class GoreTesting1 {
     @Test()
     public void user_create_requestData(){
         System.out.println("class1");
-
+        Assert.assertEquals(1,2);
 
     }
 }
